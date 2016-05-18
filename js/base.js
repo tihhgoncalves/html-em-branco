@@ -1,3 +1,1 @@
-$(document).ready(function(){
-  $('.dotdotdot').dotdotdot();
-});
+/* esse é um script geral do site */
