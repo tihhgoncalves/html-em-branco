@@ -13,10 +13,5 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "rhinoJS": "*",
-    "bootstrap": "^3.3.6",
-    "bootstrap-device-debug": "*",
-    "font-awesome": "^4.7.0",
-    "animate.css": "^3.5.2"
   }
 }
